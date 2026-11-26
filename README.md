@@ -4,6 +4,8 @@ Fifteen articles by [Jijo Shibu](https://medium.com/@jijoshibuwork), first publi
 
 New to cybersecurity? Start with the [CIA triad](foundations/cia-triad.md), then explore [network ports and protocols](foundations/network-ports-and-protocols.md). For a security operations reading path, start with [SIEM tools](security-operations/siem-tools.md) and follow with the [hospital breach excerpt](security-operations/hospital-breach.md).
 
+**Practice after reading.** [Try the 15-minute sign-in investigation](https://github.com/JijoShibu/soc-auth-investigation/blob/main/challenge.md) after the SIEM guide.
+
 ## Security fundamentals and infrastructure
 
 | Article | First published | Publication | GitHub edition |

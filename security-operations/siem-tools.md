@@ -287,4 +287,6 @@ Security operations is a skill built over time, one alert at a time. The tools a
 
 **Let’s keep the conversation going — come say hi and connect with me on** [**LinkedIn**](https://www.linkedin.com/in/jijoshibu)
 
+**Practice on GitHub.** [Try the 15-minute sign-in investigation](https://github.com/JijoShibu/soc-auth-investigation/blob/main/challenge.md). Read nine fictional events and decide which session deserves a follow-up.
+
 [Back to the article index](../README.md)
